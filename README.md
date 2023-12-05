@@ -1,1 +1,1 @@
-![Alt text](decisionboundary.jpg)
+![Alt text](decisionboundary.png)
