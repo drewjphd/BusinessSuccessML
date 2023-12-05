@@ -1,1 +1,1 @@
-![Alt text](decisionboundary.png)
+![Logistic regression](decisionboundary.png)
